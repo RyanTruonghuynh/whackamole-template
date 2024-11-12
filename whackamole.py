@@ -1,6 +1,8 @@
 import pygame
 
 
+#HELLO GOOBERS
+
 def main():
     try:
         pygame.init()
